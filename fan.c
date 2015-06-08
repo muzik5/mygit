@@ -87,27 +87,3 @@ int main(void)
 	}
 	return 0;
 }
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-}
