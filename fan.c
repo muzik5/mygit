@@ -17,7 +17,7 @@ int main(void)
 	int echo = 24;
 	int start_time, end_time;
 	float distance;
-	int rMot = 0;
+	int rMot = 0;	//DC Motor
 
 	pinMode(SW,INPUT);
 	pinMode(OUT1,OUTPUT);
